@@ -4,6 +4,9 @@ Some discription!!
 
 ## new change
 
-change something
-some new change
-add add addgit
+change change change
+
+## New Development
+
+1. Open index.html in your browser
+
